@@ -6,6 +6,4 @@ Este repositório reúne projetos desenvolvidos durante minha jornada de aprendi
 
 Este repositório serve como um portfólio pessoal para acompanhar minha evolução na área de dados, compartilhar conhecimento e facilitar a apresentação dos meus projetos.
 
----
-
 💡 *Sinta-se à vontade para explorar os projetos*
