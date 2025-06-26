@@ -1,16 +1,11 @@
-# Projeto Gatito
+# Business Intelligence
 
-A empresa **Gatito** deseja compreender melhor seus dados de **vendas**, **clientes** e **produtos** para tomar decisões mais assertivas. Utilizando o **Power BI**, construí um painel que permite:
+Este repositório reúne projetos desenvolvidos durante minha jornada de aprendizado e prática na área de **Business Intelligence (BI)**. O objetivo é aplicar técnicas de análise de dados, visualização e modelagem para gerar **insights que apoiem a tomada de decisões**.
 
-- Visualizar o desempenho de vendas por região e por produto  
-- Analisar o comportamento dos clientes  
-- Acompanhar indicadores-chave de desempenho (KPIs)  
-- Explorar sazonalidades e tendências  
+## 📚 Objetivo do Repositório
 
-## Ferramentas e Tecnologias
+Este repositório serve como um portfólio pessoal para acompanhar minha evolução na área de dados, compartilhar conhecimento e facilitar a apresentação dos meus projetos.
 
-- Power BI  
-- Power Query  
-- DAX (Data Analysis Expressions)  
-- Modelagem de Dados  
-- Excel (como fonte de dados)  
+---
+
+💡 *Sinta-se à vontade para explorar os projetos*
