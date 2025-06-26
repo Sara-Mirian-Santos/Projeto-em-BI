@@ -1,4 +1,4 @@
-# 🐾 Projeto Gatito
+# Projeto Gatito
 
 A empresa **Gatito** deseja compreender melhor seus dados de **vendas**, **clientes** e **produtos** para tomar decisões mais assertivas. Utilizando o **Power BI**, construí um painel que permite:
 
@@ -7,7 +7,7 @@ A empresa **Gatito** deseja compreender melhor seus dados de **vendas**, **clien
 - Acompanhar indicadores-chave de desempenho (KPIs)  
 - Explorar sazonalidades e tendências  
 
-## 🛠️ Ferramentas e Tecnologias
+## Ferramentas e Tecnologias
 
 - Power BI  
 - Power Query  
